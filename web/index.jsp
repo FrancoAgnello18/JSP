@@ -11,7 +11,7 @@
         <ul>
             <li> Hola Mundo con HTML
             <li> <% out.println ("Hola Mundo con Scriptlets");%>
-            <li> $ {"Hola Mundo con Expression Language (EL)"}
+            <li> ${"Hola Mundo con Expression Language (EL)"}
             <li> <c:out value="Hola Mundo con JSTL"/>
         </ul>
        <!-- Algunos valores del lado del servidor -->
